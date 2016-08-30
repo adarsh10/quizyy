@@ -1,7 +1,7 @@
 [0m[[0mdebug[0m] [0mCopy resource mappings: [0m
-[0m[[0mdebug[0m] [0m	(/home/adarsh/truprojects/truserver/conf/routes,/home/adarsh/truprojects/truserver/target/scala-2.11/classes/routes)[0m
-[0m[[0mdebug[0m] [0m	(/home/adarsh/truprojects/truserver/conf/application-prod.conf,/home/adarsh/truprojects/truserver/target/scala-2.11/classes/application-prod.conf)[0m
-[0m[[0mdebug[0m] [0m	(/home/adarsh/truprojects/truserver/conf/evolutions,/home/adarsh/truprojects/truserver/target/scala-2.11/classes/evolutions)[0m
-[0m[[0mdebug[0m] [0m	(/home/adarsh/truprojects/truserver/conf/logback.xml,/home/adarsh/truprojects/truserver/target/scala-2.11/classes/logback.xml)[0m
-[0m[[0mdebug[0m] [0m	(/home/adarsh/truprojects/truserver/conf/application.conf,/home/adarsh/truprojects/truserver/target/scala-2.11/classes/application.conf)[0m
-[0m[[0mdebug[0m] [0m	(/home/adarsh/truprojects/truserver/conf/evolutions/default,/home/adarsh/truprojects/truserver/target/scala-2.11/classes/evolutions/default)[0m
+[0m[[0mdebug[0m] [0m	(/home/adarsh/Documents/pp/pixserver/conf/routes,/home/adarsh/Documents/pp/pixserver/target/scala-2.11/classes/routes)[0m
+[0m[[0mdebug[0m] [0m	(/home/adarsh/Documents/pp/pixserver/conf/application-prod.conf,/home/adarsh/Documents/pp/pixserver/target/scala-2.11/classes/application-prod.conf)[0m
+[0m[[0mdebug[0m] [0m	(/home/adarsh/Documents/pp/pixserver/conf/evolutions,/home/adarsh/Documents/pp/pixserver/target/scala-2.11/classes/evolutions)[0m
+[0m[[0mdebug[0m] [0m	(/home/adarsh/Documents/pp/pixserver/conf/logback.xml,/home/adarsh/Documents/pp/pixserver/target/scala-2.11/classes/logback.xml)[0m
+[0m[[0mdebug[0m] [0m	(/home/adarsh/Documents/pp/pixserver/conf/application.conf,/home/adarsh/Documents/pp/pixserver/target/scala-2.11/classes/application.conf)[0m
+[0m[[0mdebug[0m] [0m	(/home/adarsh/Documents/pp/pixserver/conf/evolutions/default,/home/adarsh/Documents/pp/pixserver/target/scala-2.11/classes/evolutions/default)[0m

@@ -277,8 +277,8 @@ Seq[Any](format.raw/*2.1*/("""<!DOCTYPE html>
 object main extends main_Scope0.main
               /*
                   -- GENERATED --
-                  DATE: Tue Aug 30 16:11:02 IST 2016
-                  SOURCE: /home/adarsh/truprojects/truserver/app/views/main.scala.html
+                  DATE: Tue Aug 30 16:19:24 IST 2016
+                  SOURCE: /home/adarsh/Documents/pp/pixserver/app/views/main.scala.html
                   HASH: 74e7ec35b788dddd3a69b62f4c68eadc42bd8042
                   MATRIX: 825->1
                   LINES: 32->2

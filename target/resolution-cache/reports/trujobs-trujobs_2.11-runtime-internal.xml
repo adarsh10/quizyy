@@ -7,15 +7,15 @@
 		revision="1.0-SNAPSHOT"
 		conf="runtime-internal"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
-		date="20160828164509"/>
+		date="20160830162330"/>
 	<dependencies>
 		<module organisation="org.json" name="org.json">
-			<revision name="chargebee-1.0" status="release" pubdate="20120225134705" resolver="public" artresolver="public" homepage="http://www.json.org/java/index.html" downloaded="true" searched="true" default="false" conf="default, compile, runtime, default(compile), master" position="123">
+			<revision name="chargebee-1.0" status="release" pubdate="20120225134705" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.json.org/java/index.html" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="123">
 				<license name="provided without support or warranty" url="http://www.json.org/license.html"/>
-				<metadata-artifact status="successful" details="" size="3595" time="2496" location="/home/adarsh/.ivy2/cache/org.json/org.json/ivy-chargebee-1.0.xml" searched="true" original-local-location="/home/adarsh/.ivy2/cache/org.json/org.json/ivy-chargebee-1.0.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/json/org.json/chargebee-1.0/org.json-chargebee-1.0.pom"/>
+				<metadata-artifact status="no" details="" size="3281" time="0" location="/home/adarsh/.ivy2/cache/org.json/org.json/ivy-chargebee-1.0.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/json/org.json/chargebee-1.0/org.json-chargebee-1.0.pom"/>
 				<caller organisation="trujobs" name="trujobs_2.11" conf="compile, runtime-internal, runtime, optional" rev="chargebee-1.0" rev-constraint-default="chargebee-1.0" rev-constraint-dynamic="chargebee-1.0" callerrev="1.0-SNAPSHOT"/>
 				<artifacts>
-					<artifact name="org.json" type="jar" ext="jar" status="successful" details="" size="40683" time="3368" location="/home/adarsh/.ivy2/cache/org.json/org.json/jars/org.json-chargebee-1.0.jar">
+					<artifact name="org.json" type="jar" ext="jar" status="no" details="" size="40683" time="0" location="/home/adarsh/.ivy2/cache/org.json/org.json/jars/org.json-chargebee-1.0.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/json/org.json/chargebee-1.0/org.json-chargebee-1.0.jar"/>
 					</artifact>
 				</artifacts>

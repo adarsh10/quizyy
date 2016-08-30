@@ -1,4 +1,4 @@
-name := "trujobs"
+name := "pikarto"
 
 version := "1.0-SNAPSHOT"
 

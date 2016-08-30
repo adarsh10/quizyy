@@ -1,7 +1,7 @@
 
 // @GENERATOR:play-routes-compiler
-// @SOURCE:/home/adarsh/truprojects/truserver/conf/routes
-// @DATE:Tue Aug 30 16:09:15 IST 2016
+// @SOURCE:/home/adarsh/Documents/pp/pixserver/conf/routes
+// @DATE:Tue Aug 30 16:19:24 IST 2016
 
 import play.api.mvc.{ QueryStringBindable, PathBindable, Call, JavascriptLiteral }
 import play.core.routing.{ HandlerDef, ReverseRouteContext, queryString, dynamicString }
