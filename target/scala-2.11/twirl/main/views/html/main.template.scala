@@ -67,7 +67,7 @@ Seq[Any](format.raw/*2.1*/("""<!DOCTYPE html>
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="logo" href="index.html"><img src="/assets/img/logo.svg" alt="Logo"></a>
+                    <a class="logo" href="index.html"><img src="/assets/img/logo.png" alt="Logo" width="110px"></a>
                 </div>
                 <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav navbar-right">
@@ -80,7 +80,7 @@ Seq[Any](format.raw/*2.1*/("""<!DOCTYPE html>
             <div class="container">
                 <div class="row">
                     <div class="col-xs-6">
-                        <a href="index.html"><img src="/assets/img/logo.svg" alt="Logo"></a>
+                        <a href="index.html"><img src="/assets/img/logo.png" alt="Logo" width="120px"></a>
                     </div>
                     <div class="col-xs-6 signin text-right navbar-nav">
                         <a href="#pricing" class="scroll"></a>&nbsp; &nbsp;<a href="#"></a>
@@ -91,7 +91,8 @@ Seq[Any](format.raw/*2.1*/("""<!DOCTYPE html>
                     <div class="col-sm-10 col-sm-offset-1 text-center">
                         <h1 class="wow fadeIn">Like, Love, Share</h1>
                         <br>
-                        <p class="lead wow fadeIn" data-wow-delay="0.5s">Good design is making something intelligible and memorable. Great design is making something memorable and meaningful</p>
+                        <p class="lead wow fadeIn" data-wow-delay="0.5s">"Good design is making something intelligible and memorable. Great design is making something memorable and meaningful"</p>
+                        <p class="lead wow fadeIn" data-wow-delay="0.5s"><i>- Dieter Rams</i></p>
                         <br>
 
                         <div class="row">
@@ -120,7 +121,7 @@ Seq[Any](format.raw/*2.1*/("""<!DOCTYPE html>
             <div class="container">
                 <div class="row">
                     <div class="col-sm-8 col-sm-offset-2 text-center margin-30 wow fadeIn" data-wow-delay="0.6s">
-                        <h2>We respect Designs</h2>
+                        <h2>We respect Creativity</h2>
                         <p class="lead">Share your original designs and let others like and review it!</p>
                     </div>
                 </div>
@@ -147,7 +148,7 @@ Seq[Any](format.raw/*2.1*/("""<!DOCTYPE html>
                     <div class="col-sm-4 wow fadeIn" data-wow-delay="1.2s">
                         <hr  class="line yellow">
                         <h3>Connect</h3>
-                        <p>Necer resteict.Conect with people from arpomf the world who are art lovers. Let them comment on ypur master piece :)</p>
+                        <p>Necer resteict.Conect with people from arpomf the world who are art lovers. Let them comment on your master piece :)</p>
                     </div>
 
                 </div>
@@ -277,9 +278,9 @@ Seq[Any](format.raw/*2.1*/("""<!DOCTYPE html>
 object main extends main_Scope0.main
               /*
                   -- GENERATED --
-                  DATE: Tue Aug 30 16:19:24 IST 2016
+                  DATE: Wed Aug 31 01:07:05 IST 2016
                   SOURCE: /home/adarsh/Documents/pp/pixserver/app/views/main.scala.html
-                  HASH: 74e7ec35b788dddd3a69b62f4c68eadc42bd8042
+                  HASH: 1504d81d5446638634deeec4fbc1261e38e3d70e
                   MATRIX: 825->1
                   LINES: 32->2
                   -- GENERATED --
