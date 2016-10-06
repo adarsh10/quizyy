@@ -138,5 +138,14 @@ function computerGraph() {
     $("#userAnsFour").html($("#a4_" + userAnswerFour).attr("answer"));
     $("#userAnsFive").html($("#a5_" + userAnswerFive).attr("answer"));
 
+    $("#pieChart").attr("data-percent",20*correctCount);
+    $("#pieChart").html(20*correctCount + "%");
+
+    $(function() {
+        $('.chart').easyPieChart({
+            animate: 2000,
+            barColor: "#2ec866"
+        });
+    });
 
 }

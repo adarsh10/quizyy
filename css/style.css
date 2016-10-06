@@ -103,3 +103,16 @@ label{
     background: #2ec866;
 }
 
+#resultDiv{
+    display: none; 
+    padding: 24px;
+    width: 50%;
+}
+
+@media screen and (max-width: 768px) {
+    #resultDiv{
+        display: none; 
+        padding: 24px;
+        width: 92%;
+    }
+}

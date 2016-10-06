@@ -11,9 +11,12 @@
         <link rel="stylesheet" type="text/css" href="css/style.css">
 
         <link href="https://fonts.googleapis.com/css?family=Lato:300" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href="css/jquery.easy-pie-chart.css">
 
             <!--Import Google Icon Font-->
         <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+        
+
 
         <meta name="theme-color" content="#000000">
 
@@ -120,17 +123,18 @@
             </div>
         </div>
 
-        <div id="resultDiv" style="display: none; padding: 24px">
-            <h3 id="welcomeMsg" style="color: #fff;">Results!</h4>
+        <div id="resultDiv">
+            <h3 id="welcomeMsg" style="color: #fff;">Cheers!</h3>
             <center>
                 <div class="materialDot"></div><br>
             </center>
             <br>
-
             <center>
                 <h6 class="correct" id="finalScore"></h6>
             </center>
 
+            <div class="row">
+                <div class="input-field col s12 l6">
             <div class="row">
                 <div class="input-field col s4 l4" style="margin: 0">
                     <h6>Question No.</h5>
@@ -170,6 +174,16 @@
                     <h6 id="userAnsFive"></h5>
                 </div>
             </div>
+                    
+                </div>
+                <div class="input-field col s12 l6">
+                    <h6>Pie Chart!</h6>
+                    <div class="chart" style="margin-left: 36%" id="pieChart"></div>                                        
+                </div>
+            </div>    
+
+
+
         </div>
 
         <div class="footerDiv valign-wrapper">
@@ -197,7 +211,7 @@
 
     </body>
     <script type="text/javascript" src="js/jquery-1.12.4.js"></script>
-
+    <script type="text/javascript" src="js/easypiechart.js"></script>
     <script type="text/javascript" src="js/materialize.js"></script>
     <script type="text/javascript" src="js/myJs.js"></script>
     <script type="text/javascript" src="js/typist.js"></script>
