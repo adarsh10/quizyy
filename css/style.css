@@ -1,0 +1,90 @@
+::-webkit-scrollbar
+{
+    width: 6px;  /* for vertical scrollbars */
+    height: 6px; /* for horizontal scrollbars */
+}
+
+::-webkit-scrollbar-track
+{
+    background: rgba(255, 255, 255, 1);
+}
+
+::-webkit-scrollbar-thumb
+{
+    background: rgb(84, 85, 99);
+}
+
+body{
+    font-family: Lato;
+    color: #fff;
+}
+
+[type="radio"]:checked + label:after, [type="radio"].with-gap:checked + label:after{
+    background-color: #2ec866;
+    border-color: #2ec866;
+}
+
+.correct{
+    padding: 4px;
+    font-weight: bold;
+    background: #028d38;
+}
+.incorrect{
+    padding: 4px;
+    font-weight: bold;
+    background: #FF533A;
+}
+.label{
+    font-weight: bold;
+    padding: 4px;
+    background: transparent;
+}
+.sectionOne {
+    position: relative;
+    height: 100vh;
+    padding: 0;
+    text-align: center;
+    background: linear-gradient(rgba(24, 26, 45, 0.4), rgba(0, 0, 0, 0.9)), url(../img/background.jpg) no-repeat center;
+    background-size: 100%;
+}
+
+.footerDiv {
+    color: #fff;
+    position: absolute;
+    width:100%;
+    padding: 1%;
+    bottom: 0;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.45);
+}
+.nameModalBody{
+    position: absolute;
+    width:100%;
+    bottom: 0;
+    padding: 60px;
+}
+.customModal{
+    background: rgba(0, 0, 0, 0.68);
+    height: 320px;
+}
+
+#quizDiv{
+    color: #fff;
+}
+
+.optionDiv{
+    text-align: center;
+    padding-left: 16%;
+}
+
+.ques{
+    display: none;
+}
+
+.materialDot{
+    height: 6px;
+    width: 6px;
+    border-radius: 100%;
+    background: #2ec866;
+}
+
