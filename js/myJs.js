@@ -43,10 +43,11 @@ function showNamePopup(){
 
 function startQuiz(){
     userName = $("#userName").val();
+    console.log(userName);
     if(userName == ""){
         notifyError("Please Enter your name!");
     } else{
-        $("#welcomeMsg").val("Welcome to Quizyy! " + userName);
+        $("#welcomeMsg").html("Welcome to Quizyy! " +  $("#userName").val());
         $("#userName").val("");
         $("#nameModal").closeModal();
         $("#welcomeDiv").hide();
