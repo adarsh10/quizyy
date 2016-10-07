@@ -93,37 +93,36 @@
             <center>
                 <div class="materialDot"></div><br>
             </center>
-            <br>
             <center>
                 <h6 class="correct" id="finalScore"></h6>
             </center>
 
-            <div class="row">
-                <div class="input-field col s12 l6">
+            <div class="row" style="padding:0; margin: 0;">
+                <div class="input-field col s12 l12">
                     <div class="row">
-                        <div class="input-field col s4 l4" style="margin: 0">
-                            <h6>Question No.</h5>
+                        <div class="input-field col s2 l2" style="margin: 0">
+                            <h6>Q#</h5>
                         </div>
 
-                        <div class="input-field col s4 l4" style="margin: 0">
+                        <div class="input-field col s5 l5" style="margin: 0">
                             <h6>Your Answer</h5>
                         </div>
 
-                        <div class="input-field col s4 l4" style="margin: 0">
+                        <div class="input-field col s5 l5" style="margin: 0">
                             <h6>Correct Answer</h5>
                         </div>
                     </div>
-                    <hr>
+                    <hr style="margin: 0 0 8px 0;">
                     <div class="row">
-                        <div class="input-field col s4 l4" style="margin: 0">
-                            <h6 style="padding: 6px;">1</h5>
-                            <h6 style="padding: 6px;">2</h5>
-                            <h6 style="padding: 6px;">3</h5>
-                            <h6 style="padding: 6px;">4</h5>
-                            <h6 style="padding: 6px;">5</h5>
+                        <div class="input-field col s2 l2" style="margin: 0">
+                            <h6 style="padding: 2px;">1</h5>
+                            <h6 style="padding: 2px;">2</h5>
+                            <h6 style="padding: 2px;">3</h5>
+                            <h6 style="padding: 2px;">4</h5>
+                            <h6 style="padding: 2px;">5</h5>
                         </div>
 
-                        <div class="input-field col s4 l4" style="margin: 0">
+                        <div class="input-field col s5 l5" style="margin: 0">
                             <h6 id="userAnsOne"></h5>
                             <h6 id="userAnsTwo"></h5>
                             <h6 id="userAnsThree"></h5>
@@ -131,19 +130,21 @@
                             <h6 id="userAnsFive"></h5>
                         </div>
 
-                        <div class="input-field col s4 l4" style="margin: 0">
-                            <h6 style="padding: 6px;" id="oneAns"></h5>
-                            <h6 style="padding: 6px;" id="twoAns"></h5>
-                            <h6 style="padding: 6px;" id="threeAns"></h5>
-                            <h6 style="padding: 6px;" id="fourAns"></h5>
-                            <h6 style="padding: 6px;" id="fiveAns"></h5>
+                        <div class="input-field col s5 l5" style="margin: 0">
+                            <h6 style="padding: 2px;" id="oneAns"></h5>
+                            <h6 style="padding: 2px;" id="twoAns"></h5>
+                            <h6 style="padding: 2px;" id="threeAns"></h5>
+                            <h6 style="padding: 2px;" id="fourAns"></h5>
+                            <h6 style="padding: 2px;" id="fiveAns"></h5>
                         </div>
 
                     </div>            
                 </div>
-            <div class="input-field col s12 l6">
-                    <h6>Pie Chart!</h6>
-                    <div class="chart" style="margin-left: 36%; top:38%" id="pieChart"></div>                                        
+                <div class="input-field col s12 l12 container" style="padding:0; margin: 0;">
+                    <center>
+                        <h6>Pie Chart!</h6>
+                        <div class="chart" id="pieChart"></div>                                                                
+                    </center>
                 </div>
             </div>    
         </div>
@@ -162,7 +163,7 @@
             <center>
                 <img src="img/nerd.svg" width="72px" style="display: block">
                 <h5 style="color: #fff">Hey there! Welcome to Quizyy!</h5>
-                <input id="userName" type="text" class="validate" style="width: 320px; margin-top: 24px; color: #fff" placeholder="What's your name?">
+                <input id="userName" type="text" class="validate" style="margin-top: 24px; color: #fff" placeholder="What's your name?">
             <a onclick="startQuiz()" class="waves-effect waves-light green lighten-1 btn "><font style="color: #fff">Dive In!</font></a>
             </center>
 

@@ -17,6 +17,7 @@
 body{
     font-family: Lato;
     color: #fff;
+    background-attachment: fixed;
     background: rgba(234,247,52,1);
     background: -moz-linear-gradient(-45deg, rgba(234,247,52,1) 0%, rgba(152,245,12,1) 27%, rgba(24,189,240,1) 82%, rgba(39,179,230,1) 100%);
     background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(234,247,52,1)), color-stop(27%, rgba(152,245,12,1)), color-stop(82%, rgba(24,189,240,1)), color-stop(100%, rgba(39,179,230,1)));
@@ -42,25 +43,25 @@ label{
 
 .correct{
     border-radius: 3px; 
-    padding: 6px;
+    padding: 2px;
     font-weight: bold;
     background: #028d38;
 }
 .incorrect{
     border-radius: 3px; 
-    padding: 6px;
+    padding: 2px;
     font-weight: bold;
     background: #FF533A;
 }
 .label{
     font-weight: bold;
-    padding: 6px;
+    padding: 2px;
     background: transparent;
 }
 .sectionOne {
     position: relative;
     height: 100vh;
-    padding: 0;
+    padding: 24px;
     text-align: center;
 
     background: linear-gradient(rgba(24, 26, 45, 0.4), rgba(0, 0, 0, 0.8)) no-repeat center;
@@ -80,7 +81,7 @@ label{
     position: absolute;
     width:100%;
     bottom: 0;
-    padding: 60px;
+    padding: 12px;
 }
 .customModal{
     background: rgba(0, 0, 0, 0.68);
@@ -118,9 +119,9 @@ label{
     text-align: center;
     vertical-align: middle;
     display: inline-block;
-    width: 90px;
-    height: 90px;
-    margin: 9px;
+    width: 76px;
+    height: 76px;
+    margin: 4px;
     border-radius: 50%;
     background: transparent;
     border: 1px solid #fff;
@@ -132,10 +133,32 @@ label{
     top: 38%;
 }
 
+#userName{
+    width: 280px
+}
+
+#graphResult{
+    padding: 24px;
+    width: 100%;
+    text-align: center;
+}
+
+#pieChart{
+    margin-left: 41%;    
+}
+
 @media screen and (max-width: 768px) {
+    #userName{
+        width: 100%;    
+    }
+
     #resultDiv{
         display: none; 
-        padding: 24px;
-        width: 92%;
+        padding: 0px;
+        width: 100%;
     }
+    #pieChart{
+        margin-left: 36%;    
+    }
+
 }
