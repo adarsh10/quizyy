@@ -150,6 +150,12 @@ function computerGraph() {
     $("#userAnsFour").html($("#a4_" + userAnswerFour).text());
     $("#userAnsFive").html($("#a5_" + userAnswerFive).text());
 
+    $("#oneAns").html("Bangalore");
+    $("#twoAns").html("Silver");
+    $("#threeAns").html("Shooter");
+    $("#fourAns").html("Virat Kohli");
+    $("#fiveAns").html("Chennai");
+
     $("#pieChart").attr("data-percent",20*correctCount);
     $("#pieChart").html(20*correctCount + "%");
 
