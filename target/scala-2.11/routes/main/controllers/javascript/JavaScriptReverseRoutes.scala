@@ -1,7 +1,7 @@
 
 // @GENERATOR:play-routes-compiler
-// @SOURCE:/home/adarsh/Documents/pp/pixserver/conf/routes
-// @DATE:Tue Aug 30 16:19:24 IST 2016
+// @SOURCE:/home/dodo/project/quizyy/conf/routes
+// @DATE:Fri Oct 07 23:00:09 IST 2016
 
 import play.api.routing.JavaScriptReverseRoute
 import play.api.mvc.{ QueryStringBindable, PathBindable, Call, JavascriptLiteral }

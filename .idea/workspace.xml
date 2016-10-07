@@ -1,80 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a996367-93b0-4b90-b993-062abfa198b5" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$576857de71ef9a2afed7$$anonfun$$sbtdef$1$$anonfun$apply$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$576857de71ef9a2afed7$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$576857de71ef9a2afed7$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$576857de71ef9a2afed7.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$576857de71ef9a2afed7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$5d88fd35d520f7a6d209$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$5d88fd35d520f7a6d209$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$5d88fd35d520f7a6d209.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$5d88fd35d520f7a6d209.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$6341b948e3f709f98a29$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$6341b948e3f709f98a29$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$6341b948e3f709f98a29.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$6341b948e3f709f98a29.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/be-the-first-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/logo.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/web/classes/main/META-INF/resources/webjars/pikarto/1.0-SNAPSHOT/img/logo.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/web/public/main/img/logo.svg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/views/html/main_Scope0$main.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/views/html/main_Scope0$main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/web-assets/assets/$global/streams/sync-mappings" afterPath="$PROJECT_DIR$/target/streams/web-assets/assets/$global/streams/sync-mappings" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/web-assets/webExportedDirectory/$global/streams/sync-mappings" afterPath="$PROJECT_DIR$/target/streams/web-assets/webExportedDirectory/$global/streams/sync-mappings" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/main.scala.html" afterPath="$PROJECT_DIR$/app/views/main.scala.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/application.log" afterPath="$PROJECT_DIR$/logs/application.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/default/pixserver-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/project/target/resolution-cache/default/pixserver-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/default/pixserver-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/default/pixserver-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-pixserver-build-compile-internal.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-pixserver-build-compile-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-pixserver-build-compile.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-pixserver-build-compile.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-pixserver-build-docs.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-pixserver-build-docs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-pixserver-build-optional.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-pixserver-build-optional.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-pixserver-build-plugin.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-pixserver-build-plugin.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-pixserver-build-pom.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-pixserver-build-pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-pixserver-build-provided.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-pixserver-build-provided.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-pixserver-build-runtime-internal.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-pixserver-build-runtime-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-pixserver-build-runtime.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-pixserver-build-runtime.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-pixserver-build-scala-tool.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-pixserver-build-scala-tool.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-pixserver-build-sources.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-pixserver-build-sources.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-pixserver-build-test-internal.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-pixserver-build-test-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-pixserver-build-test.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-pixserver-build-test.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/main.css" afterPath="$PROJECT_DIR$/public/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/pikarto/pikarto_2.11/1.0-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/target/resolution-cache/pikarto/pikarto_2.11/1.0-SNAPSHOT/resolved.xml.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/pikarto/pikarto_2.11/1.0-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/pikarto/pikarto_2.11/1.0-SNAPSHOT/resolved.xml.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/pikarto-pikarto_2.11-compile-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/pikarto-pikarto_2.11-compile-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/pikarto-pikarto_2.11-compile.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/pikarto-pikarto_2.11-compile.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/pikarto-pikarto_2.11-docs.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/pikarto-pikarto_2.11-docs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/pikarto-pikarto_2.11-optional.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/pikarto-pikarto_2.11-optional.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/pikarto-pikarto_2.11-plugin.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/pikarto-pikarto_2.11-plugin.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/pikarto-pikarto_2.11-pom.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/pikarto-pikarto_2.11-pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/pikarto-pikarto_2.11-provided.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/pikarto-pikarto_2.11-provided.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/pikarto-pikarto_2.11-runtime-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/pikarto-pikarto_2.11-runtime-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/pikarto-pikarto_2.11-runtime.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/pikarto-pikarto_2.11-runtime.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/pikarto-pikarto_2.11-scala-tool.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/pikarto-pikarto_2.11-scala-tool.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/pikarto-pikarto_2.11-sources.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/pikarto-pikarto_2.11-sources.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/pikarto-pikarto_2.11-test-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/pikarto-pikarto_2.11-test-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/pikarto-pikarto_2.11-test.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/pikarto-pikarto_2.11-test.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/twirl/main/views/html/main.template.scala" afterPath="$PROJECT_DIR$/target/scala-2.11/twirl/main/views/html/main.template.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/playCommonClassloader/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/playCommonClassloader/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" afterPath="$PROJECT_DIR$/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/playEnhancerGenerateAccessors/$global/streams/play_instrumentation_2.11" afterPath="$PROJECT_DIR$/target/streams/compile/playEnhancerGenerateAccessors/$global/streams/play_instrumentation_2.11" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/playEnhancerRewriteAccessors/$global/streams/play_instrumentation_2.11" afterPath="$PROJECT_DIR$/target/streams/compile/playEnhancerRewriteAccessors/$global/streams/play_instrumentation_2.11" />
-    </list>
-    <ignored path="pikarto.iws" />
+    <list default="true" id="7c8b1633-27e1-465a-a069-65378f185f0e" name="Default" comment="" />
+    <ignored path="quizyy.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/target/resolution-cache/" />
     <ignored path="$PROJECT_DIR$/target/streams/" />
@@ -99,12 +27,12 @@
     </projectState>
   </component>
   <component name="FavoritesManager">
-    <favorites_list name="pikarto" />
+    <favorites_list name="quizyy" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="application-prod.conf" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/conf/application-prod.conf">
+    <leaf>
+      <file leaf-file-name="index.scala.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/index.scala.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -113,40 +41,61 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.sbt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.sbt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/css/main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="284" column="35" selection-start-line="284" selection-start-column="35" selection-end-line="284" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="main.scala.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/main.scala.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="93" column="49" selection-start-line="93" selection-start-column="49" selection-end-line="93" selection-end-column="49" />
+            <state relative-caret-position="789">
+              <caret line="169" column="14" selection-start-line="169" selection-start-column="14" selection-end-line="169" selection-end-column="14" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#font#0;n#a#0;n#center#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h3#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h3#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#hr#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h6#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h6#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h6#2;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h6#3;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h6#4;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h6#0;n#div#2;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h6#1;n#div#2;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h6#2;n#div#2;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h6#3;n#div#2;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h6#4;n#div#2;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#center#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#center#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h5#0;n#center#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#center#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#font#0;n#a#0;n#center#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myJs.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/js/myJs.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="317">
+              <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -156,8 +105,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/build.sbt" />
-        <option value="$PROJECT_DIR$/public/css/main.css" />
         <option value="$PROJECT_DIR$/app/views/main.scala.html" />
       </list>
     </option>
@@ -168,13 +115,20 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="Play2ProjectSettings">
     <option name="LANGUAGE_IMPORTS">
       <array>
         <option value="play.data._" />
         <option value="play.api.data.Field" />
-        <option value="scala.collection.JavaConversions._" />
         <option value="play.api.templates.PlayMagic._" />
+        <option value="scala.collection.JavaConversions._" />
         <option value="java.lang._" />
         <option value="play.mvc._" />
         <option value="play.core.j.PlayMagicForJava._" />
@@ -215,51 +169,24 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="pikarto" />
+              <option name="myItemId" value="quizyy" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pikarto" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pixserver" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pikarto" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pixserver" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -350,13 +277,13 @@
     </configuration>
   </component>
   <component name="SbtLocalSettings">
-    <option name="lastUpdateTimestamp" value="1472558743489" />
+    <option name="lastUpdateTimestamp" value="1475861070024" />
     <option name="availableProjects">
       <map>
         <entry>
           <key>
             <ExternalProjectPojo>
-              <option name="name" value="pikarto" />
+              <option name="name" value="quizyy" />
               <option name="path" value="$PROJECT_DIR$" />
             </ExternalProjectPojo>
           </key>
@@ -377,8 +304,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$/../../pixkr" value="1472549933243" />
-        <entry key="$USER_HOME$/truprojects/truserver" value="1471924543702" />
+        <entry key="$USER_HOME$/truprojects/truserver" value="1474891085115" />
       </map>
     </option>
     <option name="externalProjectsViewState">
@@ -390,55 +316,53 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3a996367-93b0-4b90-b993-062abfa198b5" name="Default" comment="" />
-      <created>1472554526600</created>
+      <changelist id="7c8b1633-27e1-465a-a069-65378f185f0e" name="Default" comment="" />
+      <created>1475860935247</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1472554526600</updated>
-      <workItem from="1472554530884" duration="699000" />
-      <workItem from="1472558076740" duration="1352000" />
-      <workItem from="1472583743130" duration="1635000" />
+      <updated>1475860935247</updated>
+      <workItem from="1475861001266" duration="446000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3686000" />
+    <option name="totallyTimeSpent" value="446000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="24" width="1920" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -457,7 +381,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/conf/application-prod.conf">
+    <entry file="file://$PROJECT_DIR$/app/views/index.scala.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -465,141 +389,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.sbt">
+    <entry file="file://$PROJECT_DIR$/public/js/myJs.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conf/application-prod.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conf/application-prod.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.sbt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="284" column="35" selection-start-line="284" selection-start-column="35" selection-end-line="284" selection-end-column="35" />
+        <state relative-caret-position="317">
+          <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/main.scala.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="93" column="49" selection-start-line="93" selection-start-column="49" selection-end-line="93" selection-end-column="49" />
-          <folding />
+        <state relative-caret-position="789">
+          <caret line="169" column="14" selection-start-line="169" selection-start-column="14" selection-end-line="169" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#font#0;n#a#0;n#center#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h6#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h6#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h6#2;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h6#3;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h6#4;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h6#0;n#div#2;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h6#1;n#div#2;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h6#2;n#div#2;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h6#3;n#div#2;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h6#4;n#div#2;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#center#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#center#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h5#0;n#center#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#center#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#font#0;n#a#0;n#center#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>root</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>SBT: aopalliance:aopalliance:1.0:jar</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>

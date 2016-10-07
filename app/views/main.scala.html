@@ -1,231 +1,178 @@
-
 <!DOCTYPE html>
-<html lang="en"><head>
-    <meta charset="utf-8">
-    <title>Pikarto - Like - Love - Share</title>
-    <meta name="keywords" content="">
-    <meta name="description" content="">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Quizyy | Finomena</title>
 
-    <meta property="og:title" content="">
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="">
-    <meta property="og:site_name" content="">
-    <meta property="og:description" content="">
+            <!-- Bootstrap Core CSS -->
+        <link rel="stylesheet" type="text/css" href="/assets/css/bootstrap.min.css">
+        <link rel="stylesheet" type="text/css" href="/assets/css/materialize.css">
+        <link rel="stylesheet" type="text/css" href="/assets/css/style.css">
 
-        <!-- Styles -->
-    <link rel="stylesheet" href="/assets/css/font-awesome.min.css">
-    <link rel="stylesheet" href="/assets/css/animate.css">
-    <link href='http://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800,900|Montserrat:400,700' rel='stylesheet' type='text/css'>
+        <link href="https://fonts.googleapis.com/css?family=Lato:300" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href="/assets/css/jquery.easy-pie-chart.css">
+
+            <!--Import Google Icon Font-->
+        <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
 
-    <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="/assets/css/main.css">
 
-    <script src="/assets/js/modernizr-2.7.1.js"></script>
+        <meta name="theme-color" content="#000000">
 
-</head>
-
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    </head>
     <body>
 
+        <div class="sectionOne" style="display:flex; justify-content:center; align-items:center;">
+            <div id="welcomeDiv">
+                <h2 style="color: #fff; display: inline-block; font-weight: bold">Quizyy!</h2><img src="/assets/img/nerd.svg" style="display: inline-block; margin-top: -24px" width="56px">
+                <h4 class="typist" style="color: #2ec866; margin-top :-9px"><font color="#fff">Come and </font></h4>
 
-        <div class="navbar navbar-inverse navbar-fixed-top">
-            <div class="container">
-                <div class="navbar-header">
-                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-                    <a class="logo" href="index.html"><img src="/assets/img/logo.png" alt="Logo" width="110px"></a>
-                </div>
-                <div class="navbar-collapse collapse">
-                    <ul class="nav navbar-nav navbar-right">
-          </ul>
-                </div><!--/.navbar-collapse -->
+                <br>
+                <center>
+                    <a onclick="showNamePopup()" class="waves-effect waves-light green lighten-1 btn"><font style="color: #fff; font-weight: bold">Play</font></a>
+                </center>
             </div>
-        </div>
 
-        <header>
-            <div class="container">
-                <div class="row">
-                    <div class="col-xs-6">
-                        <a href="index.html"><img src="/assets/img/logo.png" alt="Logo" width="120px"></a>
-                    </div>
-                    <div class="col-xs-6 signin text-right navbar-nav">
-                        <a href="#pricing" class="scroll"></a>&nbsp; &nbsp;<a href="#"></a>
+            <div id="quizDiv" style="display: none;">
+                <h3 id="welcomeMsg" style="color: #fff;"></h3   >
+                <center>
+                    <div class="materialDot"></div>
+                </center>
+                <br>
+
+                <div id="quesOne">
+                    <h5>What is the capital city of Karnataka?</h5>
+                    <div class="optionDiv">
+                        <div value="1" id="a1_1" class="options waves-effect waves-green" onclick="checkQuesOne(1)"><div class="optionBody">Delhi</div></div>
+                        <div value="2" id="a1_2" class="options waves-effect waves-green" onclick="checkQuesOne(2)"><div class="optionBody">Bengaluru</div></div>
+                        <div value="3" id="a1_3" class="options waves-effect waves-green" onclick="checkQuesOne(3)"><div class="optionBody">Mumbai</div></div>
                     </div>
                 </div>
 
-                <div class="row header-info">
-                    <div class="col-sm-10 col-sm-offset-1 text-center">
-                        <h1 class="wow fadeIn">Like, Love, Share</h1>
-                        <br>
-                        <p class="lead wow fadeIn" data-wow-delay="0.5s">"Good design is making something intelligible and memorable. Great design is making something memorable and meaningful"</p>
-                        <p class="lead wow fadeIn" data-wow-delay="0.5s"><i>- Dieter Rams</i></p>
-                        <br>
+                <div id="quesTwo" class="ques">
+                    <h5>Which medal did PV Sindhu win in Rio Olympics 2016?</h5>
+                    <div class="optionDiv">
+                        <div value="1" id="a2_1" class="options waves-effect waves-green" onclick="checkQuesTwo(1)"><div class="optionBody">Gold</div></div>
+                        <div value="2" id="a2_2" class="options waves-effect waves-green" onclick="checkQuesTwo(2)"><div class="optionBody">Silver</div></div>
+                        <div value="3" id="a2_3" class="options waves-effect waves-green" onclick="checkQuesTwo(3)"><div class="optionBody">Bronze</div></div>
+                    </div>
+                </div>
 
+                <div id="quesThree" class="ques">
+                    <h5>Who is Abhinav Bindra?</h5>
+                    <div class="optionDiv">
+                        <div value="1" id="a3_1" class="options waves-effect waves-green" onclick="checkQuesThree(1)"><div class="optionBody">Swimmer</div></div>
+                        <div value="2" id="a3_2" class="options waves-effect waves-green" onclick="checkQuesThree(2)"><div class="optionBody">Shooter</div></div>
+                        <div value="3" id="a3_3" class="options waves-effect waves-green" onclick="checkQuesThree(3)"><div class="optionBody">Cricketer</div></div>
+                    </div>
+                </div>
+
+                <div id="quesFour" class="ques">
+                    <h5>Who is the captain of RCB?</h5>
+                    <div class="optionDiv">
+                        <div value="1" id="a4_1" class="options waves-effect waves-green" onclick="checkQuesFour(1)"><div class="optionBody">AB</div></div>
+                        <div value="2" id="a4_2" class="options waves-effect waves-green" onclick="checkQuesFour(2)"><div class="optionBody">Virat Kohli</div></div>
+                        <div value="3" id="a4_3" class="options waves-effect waves-green" onclick="checkQuesFour(3)"><div class="optionBody">Chris Gayle</div></div>
+                    </div>
+                </div>
+
+                <div id="quesFive" class="ques">
+                    <h5>What is the capital city of Tamil Nadu?</h5>
+                    <div class="optionDiv">
+                        <div value="1" id="a5_1" class="options waves-effect waves-green" onclick="checkQuesFive(1)"><div class="optionBody">Chennai</div></div>
+                        <div value="2" id="a5_2" class="options waves-effect waves-green" onclick="checkQuesFive(2)"><div class="optionBody">Bengaluru</div></div>
+                        <div value="3" id="a5_3" class="options waves-effect waves-green" onclick="checkQuesFive(3)"><div class="optionBody">Hyderabad</div></div>
+                    </div>
+                </div>
+            </div>
+
+            <div id="resultDiv">
+                <h3 id="welcomeMsg" style="color: #fff;">Cheers!</h3>
+                <center>
+                    <div class="materialDot"></div><br>
+                </center>
+                <center>
+                    <h6 class="correct" id="finalScore"></h6>
+                </center>
+
+                <div class="row" style="padding:0; margin: 0;">
+                    <div class="input-field col s12 l12">
                         <div class="row">
-                            <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
-                                <div class="row">
-                                    <div class="col-xs-6 text-right wow fadeInUp" data-wow-delay="1s">
-                                        <a href="#be-the-first" class="btn btn-secondary btn-lg scroll">About Pikarto</a>
-                                    </div>
-                                    <div class="col-xs-6 text-left wow fadeInUp" data-wow-delay="1.4s">
-                                        <a href="#invite" class="btn btn-primary btn-lg scroll">Request Invite</a>
-                                    </div>
-                                </div><!--End Button Row-->
+                            <div class="input-field col s2 l2" style="margin: 0">
+                                <h6>Q#</h5>
+                            </div>
+
+                            <div class="input-field col s5 l5" style="margin: 0">
+                                <h6>Your Answer</h5>
+                            </div>
+
+                            <div class="input-field col s5 l5" style="margin: 0">
+                                <h6>Correct Answer</h5>
                             </div>
                         </div>
+                        <hr style="margin: 0 0 8px 0;">
+                        <div class="row">
+                            <div class="input-field col s2 l2" style="margin: 0">
+                                <h6 style="padding: 2px;">1</h6>
+                                <h6 style="padding: 2px;">2</h6>
+                                <h6 style="padding: 2px;">3</h6>
+                                <h6 style="padding: 2px;">4</h6>
+                                <h6 style="padding: 2px;">5</h6>
+                            </div>
 
+                            <div class="input-field col s5 l5" style="margin: 0">
+                                <h6 id="userAnsOne"></h6>
+                                <h6 id="userAnsTwo"></h6>
+                                <h6 id="userAnsThree"></h6>
+                                <h6 id="userAnsFour"></h6>
+                                <h6 id="userAnsFive"></h6>
+                            </div>
+
+                            <div class="input-field col s5 l5" style="margin: 0">
+                                <h6 style="padding: 2px;" id="oneAns"></h6>
+                                <h6 style="padding: 2px;" id="twoAns"></h6>
+                                <h6 style="padding: 2px;" id="threeAns"></h6>
+                                <h6 style="padding: 2px;" id="fourAns"></h6>
+                                <h6 style="padding: 2px;" id="fiveAns"></h6>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="input-field col s12 l12 container" style="padding:0; margin: 0;">
+                        <center>
+                            <h6>Pie Chart!</h6>
+                            <div class="chart" id="pieChart"></div>
+                        </center>
                     </div>
                 </div>
             </div>
-        </header>
 
-        <div class="mouse-icon hidden-xs">
-            <div class="scroll"></div>
+            <div class="footerDiv valign-wrapper">
+                <div style="width: 100%; text-align: center" class="container">
+                    <center>Made with <img src="img/heart.svg" width="16px" style="margin: 3px; margin-top: -1px"> by Adarsh Raj Shah</center>
+                </div>
+            </div>
         </div>
 
-        <section id="be-the-first" class="pad-xl">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-8 col-sm-offset-2 text-center margin-30 wow fadeIn" data-wow-delay="0.6s">
-                        <h2>We respect Creativity</h2>
-                        <p class="lead">Share your original designs and let others like and review it!</p>
-                    </div>
-                </div>
 
-                <div class="iphone wow fadeInUp" data-wow-delay="1s">
-                    <img src="/assets/img/iphone.png">
-                </div>
-            </div>
-        </section>
-
-        <section id="main-info" class="pad-xl">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-4 wow fadeIn" data-wow-delay="0.4s">
-                        <hr class="line purple">
-                        <h3>Upload</h3>
-                        <p>Upload images of your design, painting, murals or any kind of artworks at Pikarto, which you want to show to the world!</p>
-                    </div>
-                    <div class="col-sm-4 wow fadeIn" data-wow-delay="0.8s">
-                        <hr class="line blue">
-                        <h3>Share your Master Piece</h3>
-                        <p>Showcare your talent and creativity among your friends, family and peer group easily via Facebook. </p>
-                    </div>
-                    <div class="col-sm-4 wow fadeIn" data-wow-delay="1.2s">
-                        <hr  class="line yellow">
-                        <h3>Connect</h3>
-                        <p>Necer resteict.Conect with people from arpomf the world who are art lovers. Let them comment on your master piece :)</p>
-                    </div>
-
-                </div>
-            </div>
-        </section>
-
-
-            <!--Pricing-->
-        <section id="pricing" class="pad-lg">
-            <div class="container">
-                <div class="row margin-40">
-                    <div class="col-sm-8 col-sm-offset-2 text-center">
-                        <h2 class="white">Pikarto - The Magic Box!</h2>
-                        <p class="white">World within your pocket. Pikarto is a app based platform. Small and simple just made for you</p>
-                    </div>
-                </div>
-
-                <div class="row margin-50">
-
-                    <div class="col-sm-4 pricing-container wow fadeInUp" data-wow-delay="1s" style="padding: 82px">
-                        <br />
-                        <ul class="list-unstyled pricing-table text-center">
-                            <div class="iphone wow fadeInUp" data-wow-delay="1s">
-                                <img src="/assets/img/phone2.png">
-                            </div>
-                        </ul>
-                    </div>
-
-                    <div class="col-sm-4 pricing-container wow fadeInUp" data-wow-delay="1s" style="padding: 56px">
-                        <br />
-                        <ul class="list-unstyled pricing-table text-center">
-                            <div class="iphone wow fadeInUp" data-wow-delay="1s">
-                                <img src="/assets/img/phone2.png">
-                            </div>
-                        </ul>
-                    </div>
-
-                    <div class="col-sm-4 pricing-container wow fadeInUp" data-wow-delay="1s" style="padding: 82px">
-                        <br />
-                        <ul class="list-unstyled pricing-table text-center">
-                            <div class="iphone wow fadeInUp" data-wow-delay="1s">
-                                <img src="/assets/img/phone2.png">
-                            </div>
-                        </ul>
-                    </div>
-                </div>
+            <!-- Modal Structure -->
+        <div id="nameModal" class="modal customModal">
+            <div class="nameModalBody container">
+                <center>
+                    <img src="/assets/img/nerd.svg" width="72px" style="display: block">
+                    <h5 style="color: #fff">Hey there! Welcome to Quizyy!</h5>
+                    <input id="userName" type="text" class="validate" style="margin-top: 24px; color: #fff" placeholder="What's your name?">
+                    <a onclick="startQuiz()" class="waves-effect waves-light green lighten-1 btn "><font style="color: #fff">Dive In!</font></a>
+                </center>
 
             </div>
-        </section>
-
-
-        <section id="invite" class="pad-lg light-gray-bg">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-8 col-sm-offset-2 text-center">
-                        <img src="/assets/img/play.png">
-                        <h2 class="black">Coming Soon on Google Play!</h2>
-                        <br />
-                        <p class="black">Be among the first users to explore the awesomeness. Get notified</p>
-                        <br />
-
-                        <div class="row">
-                            <div class="col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3">
-                                <form role="form">
-                                    <div class="form-group">
-                                        <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter Email">
-                                    </div>
-                                    <button type="submit" class="btn btn-primary btn-lg">Request Notification</button>
-                                </form>
-                            </div>
-                        </div><!--End Form row-->
-
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <footer>
-            <div class="container">
-
-                <div class="row">
-                    <div class="col-sm-8 margin-20">
-                        <ul class="list-inline social">
-                            <li>Connect with us on</li>
-                            <li><a href="#"><img src="/assets/img/fb.png"></a></li>
-                            <li><a href="#"><img src="/assets/img/insta.png"></a></li>
-                        </ul>
-                    </div>
-
-                    <div class="col-sm-4 text-right">
-                        <small>Designed with </small><img src="/assets/img/heart.png" style="padding: 2px">
-                        <p><small>Pikarto 2016. Bengaluru, India.</small></p> <br>
-
-                    </div>
-                </div>
-
-            </div>
-        </footer>
-
-
-            <!-- Javascript -->
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-        <script>window.jQuery || document.write('<script src="/assets/js/jquery-1.11.0.min.js"><\/script>')</script>
-        <script src="/assets/js/wow.min.js"></script>
-        <script src="/assets/js/bootstrap.min.js"></script>
-        <script src="/assets/js/main.js"></script>
-
+        </div>
 
     </body>
+    <script type="text/javascript" src="/assets/js/jquery-1.12.4.js"></script>
+    <script type="text/javascript" src="/assets/js/easypiechart.js"></script>
+    <script type="text/javascript" src="/assets/js/materialize.js"></script>
+    <script type="text/javascript" src="/assets/js/myJs.js"></script>
+    <script type="text/javascript" src="/assets/js/typist.js"></script>
 </html>

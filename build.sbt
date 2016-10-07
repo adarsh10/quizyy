@@ -1,4 +1,4 @@
-name := "pikarto"
+name := "quizyy"
 
 version := "1.0-SNAPSHOT"
 

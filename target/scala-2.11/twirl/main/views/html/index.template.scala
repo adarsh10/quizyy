@@ -49,8 +49,8 @@ Seq[Any](_display_(/*1.2*/main()))
 object index extends index_Scope0.index
               /*
                   -- GENERATED --
-                  DATE: Tue Aug 23 11:30:15 IST 2016
-                  SOURCE: /home/adarsh/truprojects/truserver/app/views/index.scala.html
+                  DATE: Fri Oct 07 23:00:10 IST 2016
+                  SOURCE: /home/dodo/project/quizyy/app/views/index.scala.html
                   HASH: c1c7aa43c344083185eac6c9197fe6fd1e8c82a1
                   MATRIX: 827->1
                   LINES: 32->1
