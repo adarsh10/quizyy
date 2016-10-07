@@ -36,6 +36,10 @@ label{
     color: #fff;
 }
 
+.ascentGreen{
+    background: #2ec866;
+}
+
 .correct{
     border-radius: 3px; 
     padding: 6px;
@@ -88,8 +92,8 @@ label{
 }
 
 .optionDiv{
+    width: auto;
     text-align: center;
-    padding-left: 16%;
 }
 
 .ques{
@@ -107,6 +111,25 @@ label{
     display: none; 
     padding: 24px;
     width: 50%;
+}
+
+.options{
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+    display: inline-block;
+    width: 90px;
+    height: 90px;
+    margin: 9px;
+    border-radius: 50%;
+    background: transparent;
+    border: 1px solid #fff;
+}
+
+.optionBody{
+    position: absolute;
+    width: 100%;
+    top: 38%;
 }
 
 @media screen and (max-width: 768px) {

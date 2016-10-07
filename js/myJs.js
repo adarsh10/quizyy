@@ -43,7 +43,6 @@ function showNamePopup(){
 
 function startQuiz(){
     userName = $("#userName").val();
-    console.log(userName);
     if(userName == ""){
         notifyError("Please Enter your name!");
     } else{
@@ -60,43 +59,56 @@ function notifyError(msg){
 }
 
 //ques 1
-$("input:radio[name='questionOneOption']").click(function(){
-    userAnswerOne = this.value;
-    $("#quesOne").hide();
-    $("#quesTwo").fadeIn();
-})
+function checkQuesOne(ansVal){
+    userAnswerOne = ansVal;
+    setTimeout(function(){
+        $("#quesOne").hide();
+        $("#quesTwo").fadeIn();
+    }, 600);
+
+}
 
 //ques 2
-$("input:radio[name='questionTwoOption']").click(function(){
-    userAnswerTwo = this.value;
-    $("#quesTwo").hide();
-    $("#quesThree").fadeIn();        
-})
+function checkQuesTwo(ansVal){
+    userAnswerTwo = ansVal;
+    setTimeout(function(){
+        $("#quesTwo").hide();
+        $("#quesThree").fadeIn();        
+    }, 600);
+}
+
 
 //ques 3
-$("input:radio[name='questionThreeOption']").click(function(){
-    userAnswerThree = this.value;
-    $("#quesThree").hide();
-    $("#quesFour").fadeIn();
-})
+function checkQuesThree(ansVal){
+    userAnswerThree = ansVal;
+    setTimeout(function(){
+        $("#quesThree").hide();
+        $("#quesFour").fadeIn();
+    }, 600);
+}
 
 //ques 4
-$("input:radio[name='questionFourOption']").click(function(){
-    userAnswerFour = this.value;
-    $("#quesFour").hide();
-    $("#quesFive").fadeIn();
-})
+function checkQuesFour(ansVal){
+    userAnswerFour = ansVal;
+    setTimeout(function(){
+        $("#quesFour").hide();
+        $("#quesFive").fadeIn();        
+    }, 600);
+}
 
 //ques 5
-$("input:radio[name='questionFiveOption']").click(function(){
-    userAnswerFive = this.value;
-    $("#quizDiv").hide();
-    $("#resultDiv").fadeIn();
+function checkQuesFive(ansVal){
+    userAnswerFive = ansVal;
+    setTimeout(function(){
+        $("#quizDiv").hide();
+        $("#resultDiv").fadeIn();
+        computerGraph();
+    }, 600);
+}
 
-    computerGraph();
-})
 
 function computerGraph() {
+    console.log(userAnswerOne + " ----");
     var correctCount = 0;
     if(userAnswerOne == answerOne){
         correctCount ++;
@@ -132,11 +144,11 @@ function computerGraph() {
     $("#finalScore").html("Final Score: " + correctCount + "/5");
 
 
-    $("#userAnsOne").html($("#a1_" + userAnswerOne).attr("answer"));
-    $("#userAnsTwo").html($("#a2_" + userAnswerTwo).attr("answer"));
-    $("#userAnsThree").html($("#a3_" + userAnswerThree).attr("answer"));
-    $("#userAnsFour").html($("#a4_" + userAnswerFour).attr("answer"));
-    $("#userAnsFive").html($("#a5_" + userAnswerFive).attr("answer"));
+    $("#userAnsOne").html($("#a1_" + userAnswerOne).text());
+    $("#userAnsTwo").html($("#a2_" + userAnswerTwo).text());
+    $("#userAnsThree").html($("#a3_" + userAnswerThree).text());
+    $("#userAnsFour").html($("#a4_" + userAnswerFour).text());
+    $("#userAnsFive").html($("#a5_" + userAnswerFive).text());
 
     $("#pieChart").attr("data-percent",20*correctCount);
     $("#pieChart").html(20*correctCount + "%");

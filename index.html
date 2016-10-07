@@ -44,81 +44,46 @@
 
             <div id="quesOne">
                 <h5>What is the capital city of Karnataka?</h5>
-                <div class="container optionDiv">
-                    <div style="text-align: left">
-                        <input name="questionOneOption" value="1" type="radio" id="q1_1" />
-                        <label for="q1_1" id="a1_1" answer ="Delhi">Delhi</label>
-                        <br>
-                        <input name="questionOneOption" value="2" type="radio" id="q1_2" />
-                        <label for="q1_2" id="a1_2" answer ="Bengaluru">Bengaluru</label>
-                        <br>
-                        <input name="questionOneOption" value="3" type="radio" id="q1_3" />
-                        <label for="q1_3" id="a1_3" answer ="Mumbai">Mumbai</label>                    
-                    </div>
+                <div class="optionDiv">
+                    <div value="1" id="a1_1" class="options waves-effect waves-green" onclick="checkQuesOne(1)"><div class="optionBody">Delhi</div></div>
+                    <div value="2" id="a1_2" class="options waves-effect waves-green" onclick="checkQuesOne(2)"><div class="optionBody">Bengaluru</div></div>
+                    <div value="3" id="a1_3" class="options waves-effect waves-green" onclick="checkQuesOne(3)"><div class="optionBody">Mumbai</div></div>
                 </div>
             </div>
 
             <div id="quesTwo" class="ques">
                 <h5>Which medal did PV Sindhu win in Rio Olympics 2016?</h5>
-                <div class="container optionDiv">
-                    <div style="text-align: left">
-                        <input name="questionTwoOption" value="1" type="radio" id="q2_1" />
-                        <label for="q2_1" id="a2_1" answer ="Gold">Gold</label>
-                        <br>
-                        <input name="questionTwoOption" value="2" type="radio" id="q2_2" />
-                        <label for="q2_2" id="a2_2" answer ="Silver">Silver</label>
-                        <br>
-                        <input name="questionTwoOption" value="3" type="radio" id="q2_3" />
-                        <label for="q2_3" id="a2_3" answer ="Bronze">Bronze</label>                    
-                    </div>
+                <div class="optionDiv">
+                    <div value="1" id="a2_1" class="options waves-effect waves-green" onclick="checkQuesTwo(1)"><div class="optionBody">Gold</div></div>
+                    <div value="2" id="a2_2" class="options waves-effect waves-green" onclick="checkQuesTwo(2)"><div class="optionBody">Silver</div></div>
+                    <div value="3" id="a2_3" class="options waves-effect waves-green" onclick="checkQuesTwo(3)"><div class="optionBody">Bronze</div></div>                
                 </div>
             </div>
 
             <div id="quesThree" class="ques">
                 <h5>Who is Abhinav Bindra?</h5>
-                <div class="container optionDiv">
-                    <div style="text-align: left">
-                        <input name="questionThreeOption" value="1" type="radio" id="q3_1" />
-                        <label for="q3_1" id="a3_1" answer ="Swimmer">Swimmer</label>
-                        <br>
-                        <input name="questionThreeOption" value="2" type="radio" id="q3_2" />
-                        <label for="q3_2" id="a3_2" answer ="Shooter">Shooter</label>
-                        <br>
-                        <input name="questionThreeOption" value="3" type="radio" id="q3_3" />
-                        <label for="q3_3" id="a3_3" answer ="Cricketer">Cricketer</label>                    
-                    </div>
+                <div class="optionDiv">
+                    <div value="1" id="a3_1" class="options waves-effect waves-green" onclick="checkQuesThree(1)"><div class="optionBody">Swimmer</div></div>
+                    <div value="2" id="a3_2" class="options waves-effect waves-green" onclick="checkQuesThree(2)"><div class="optionBody">Shooter</div></div>
+                    <div value="3" id="a3_3" class="options waves-effect waves-green" onclick="checkQuesThree(3)"><div class="optionBody">Cricketer</div></div>
                 </div>
             </div>
 
             <div id="quesFour" class="ques">
                 <h5>Who is the captain of RCB?</h5>
-                <div class="container optionDiv">
-                    <div style="text-align: left">
-                        <input name="questionFourOption" value="1" type="radio" id="q4_1" />
-                        <label for="q4_1" id="a4_1" answer ="AB">AB</label>
-                        <br>
-                        <input name="questionFourOption" value="2" type="radio" id="q4_2" />
-                        <label for="q4_2" id="a4_2" answer ="Virat Kohli">Virat Kohli</label>
-                        <br>
-                        <input name="questionFourOption" value="3" type="radio" id="q4_3" />
-                        <label for="q4_3" id="a4_3" answer ="Chris Gayle">Chris Gayle</label>                    
-                    </div>
+                <div class="optionDiv">
+                    <div value="1" id="a4_1" class="options waves-effect waves-green" onclick="checkQuesFour(1)"><div class="optionBody">AB</div></div>
+                    <div value="2" id="a4_2" class="options waves-effect waves-green" onclick="checkQuesFour(2)"><div class="optionBody">Virat Kohli</div></div>
+                    <div value="3" id="a4_3" class="options waves-effect waves-green" onclick="checkQuesFour(3)"><div class="optionBody">Chris Gayle</div></div>
                 </div>            
             </div>
 
             <div id="quesFive" class="ques">
                 <h5>What is the capital city of Tamil Nadu?</h5>
-                <div class="container optionDiv">
-                    <div style="text-align: left">
-                        <input name="questionFiveOption" value="1" type="radio" id="q5_1" />
-                        <label for="q5_1" id="a5_1" answer ="Chennai">Chennai</label>
-                        <br>
-                        <input name="questionFiveOption" value="2" type="radio" id="q5_2" />
-                        <label for="q5_2" id="a5_2" answer ="Bengaluru">Bengaluru</label>
-                        <br>
-                        <input name="questionFiveOption" value="3" type="radio" id="q5_3" />
-                        <label for="q5_3" id="a5_3" answer ="Hyderabad">Hyderabad</label>                    
-                    </div>
+                <div class="optionDiv">
+                    <div value="1" id="a5_1" class="options waves-effect waves-green" onclick="checkQuesFive(1)"><div class="optionBody">Chennai</div></div>
+                    <div value="2" id="a5_2" class="options waves-effect waves-green" onclick="checkQuesFive(2)"><div class="optionBody">Bengaluru</div></div>
+                    <div value="3" id="a5_3" class="options waves-effect waves-green" onclick="checkQuesFive(3)"><div class="optionBody">Hyderabad</div></div>                      
                 </div>
             </div>
         </div>
@@ -178,7 +143,8 @@
                 </div>
                 <div class="input-field col s12 l6">
                     <h6>Pie Chart!</h6>
-                    <div class="chart" style="margin-left: 36%" id="pieChart"></div>                                        
+                    <hr>
+                    <div class="chart" style="margin-left: 36%; top:38%" id="pieChart"></div>                                        
                 </div>
             </div>    
 
