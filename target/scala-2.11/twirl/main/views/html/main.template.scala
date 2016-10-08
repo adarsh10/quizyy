@@ -181,7 +181,7 @@ Seq[Any](format.raw/*1.1*/("""<!DOCTYPE html>
 
             <div class="footerDiv valign-wrapper">
                 <div style="width: 100%; text-align: center" class="container">
-                    <center>Made with <img src="img/heart.svg" width="16px" style="margin: 3px; margin-top: -1px"> by Adarsh Raj Shah</center>
+                    <center>Made with <img src="/assets/img/heart.svg" width="16px" style="margin: 3px; margin-top: -1px"> by Adarsh Raj Shah</center>
                 </div>
             </div>
         </div>
@@ -226,9 +226,9 @@ Seq[Any](format.raw/*1.1*/("""<!DOCTYPE html>
 object main extends main_Scope0.main
               /*
                   -- GENERATED --
-                  DATE: Fri Oct 07 23:00:10 IST 2016
+                  DATE: Sat Oct 08 09:18:35 IST 2016
                   SOURCE: /home/dodo/project/quizyy/app/views/main.scala.html
-                  HASH: d35db67b456b52e6060df2147fcc98dd53710e60
+                  HASH: dcd5b752c95be9285a9fa2a4a5333ce2cde790b3
                   MATRIX: 825->0
                   LINES: 32->1
                   -- GENERATED --
