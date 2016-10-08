@@ -7,7 +7,7 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies for quizyy#quizyy_2.11;1.0-SNAPSHOT [compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies quizyy#quizyy_2.11;1.0-SNAPSHOT->org.scala-lang#scala-library;2.11.7 [compile->default(compile)][0m
 [0m[[0minfo[0m] [0mResolving org.scala-lang#scala-library;2.11.7 ...[0m
-[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@edf0e1a[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@31a4eb17[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang#scala-library;2.11.7[0m
 [0m[[0mdebug[0m] [0m	found org.scala-lang#scala-library;2.11.7 in sbt-chain[0m
 [0m[[0mdebug[0m] [0m	[2.11.7] org.scala-lang#scala-library;2.11.7[0m
@@ -9942,7 +9942,7 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#scala-compiler;2.11.7!scala-compiler.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.4!scala-xml_2.11.jar(bundle)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] jline#jline;2.12.1!jline.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 53420ms :: artifacts dl 45ms[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 35607ms :: artifacts dl 67ms[0m
 [0m[[0mdebug[0m] [0m	report for quizyy#quizyy_2.11;1.0-SNAPSHOT compile produced in /home/dodo/project/quizyy/target/resolution-cache/reports/quizyy-quizyy_2.11-compile.xml[0m
 [0m[[0mdebug[0m] [0m	report for quizyy#quizyy_2.11;1.0-SNAPSHOT runtime produced in /home/dodo/project/quizyy/target/resolution-cache/reports/quizyy-quizyy_2.11-runtime.xml[0m
 [0m[[0mdebug[0m] [0m	report for quizyy#quizyy_2.11;1.0-SNAPSHOT test produced in /home/dodo/project/quizyy/target/resolution-cache/reports/quizyy-quizyy_2.11-test.xml[0m
@@ -9956,5 +9956,5 @@
 [0m[[0mdebug[0m] [0m	report for quizyy#quizyy_2.11;1.0-SNAPSHOT docs produced in /home/dodo/project/quizyy/target/resolution-cache/reports/quizyy-quizyy_2.11-docs.xml[0m
 [0m[[0mdebug[0m] [0m	report for quizyy#quizyy_2.11;1.0-SNAPSHOT pom produced in /home/dodo/project/quizyy/target/resolution-cache/reports/quizyy-quizyy_2.11-pom.xml[0m
 [0m[[0mdebug[0m] [0m	report for quizyy#quizyy_2.11;1.0-SNAPSHOT scala-tool produced in /home/dodo/project/quizyy/target/resolution-cache/reports/quizyy-quizyy_2.11-scala-tool.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (53420ms resolve - 45ms download)[0m
+[0m[[0mdebug[0m] [0m	resolve done (35607ms resolve - 67ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m
